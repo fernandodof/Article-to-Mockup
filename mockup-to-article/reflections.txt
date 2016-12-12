@@ -9,7 +9,7 @@ You've learned a lot about web development so far. I want you to take a moment t
 Your response goes here!
 
 * What new skills have I learned?
-I learned how to many html tags correctly and also how to create a simple page from a mockup.
+I learned how to use many html tags correctly and also how to create a simple page from a mockup.
 
 * What has been easy?
 To be honest, it was easy.
